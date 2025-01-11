@@ -1,0 +1,5 @@
+what is tupple in python'
+what is slice in python
+what is list
+data types in python
+MVC Architecture - Explain the flow

@@ -1,0 +1,32 @@
+1.)The sequence for n=2
+bbaa
+logical questions:
+if both ropes burn unequally and in 1 hour how will we know 45 minutes has passed.
+There is one defective piece weighing 9kg and 9 non defective pieces weighing 10 kg, how can we know the defective piece in one measurement.
+
+
+ba
+The sequence for n=3
+cccbbbaaa
+ccbbaa
+cba
+
+2.) Sum of all prime numbers for input n
+
+3.) The hollow pattern:
+*****
+*   *
+*   *
+*   *
+*****
+
+4.) The nth term of fibonnaci sequence for a given number n.
+
+SQL
+
+HTML basic
+
+1.) What is HTML?
+2.) What is the difference between bullet list and numbered list in html
+3.) What is difference between cell padding (or cell ) and cell spacing
+4.) Write html code to make the below table

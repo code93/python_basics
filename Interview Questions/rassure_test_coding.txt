@@ -1,0 +1,3 @@
+Fibonnaci sequence
+Reverse Fibonnaci
+factorial (using generator ig)

@@ -1,0 +1,4 @@
+Tell me about yourself?
+Tell me about the project you were working on and how did it solve customer problem?
+What are your thought on RAG?
+Generative AI...

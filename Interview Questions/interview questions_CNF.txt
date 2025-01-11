@@ -1,0 +1,10 @@
+Tell me about yourself?
+What is tensor in tensorflow?
+How do you train using pytorch?
+What are the steps of machine learning?
+What is K fold cross validation?
+What are vector embeddings?
+How do you feed a text into a neural network?
+How do you know if there is an overfitting?
+DId you compare your OCR model with other models such as tesseract ocr?
+what was the accuracy and how did you measure it, i.e F score?

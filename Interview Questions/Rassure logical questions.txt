@@ -1,0 +1,5 @@
+(1) 5 pirates of different ages have a treasure of 100 gold coins. On their ship, they decide to split the coins using this scheme: The oldest pirate proposes how to share the coins and all pirates (including the oldest) vote for it or against it. If 50% or more of the pirates vote for it, then the coins will be shared that way. Otherwise, the pirate proposing the scheme will be thrown overboard, and the process is repeated with the pirates that remain.How many maximum number of coins will A get 
+(2) A person has 3000 bananas and a camel.The person wants to transport the maximum number of bananas to a destination which is 1000 KMs away, using only the camel as a mode of transportation. The camel cannot carry more than 1000 bananas at a time and eats a banana every km it travels. What is the maximum number of bananas that can be transferred to the destination using only camel (no other mode of transportation is allowed.)
+
+
+https://www.geeksforgeeks.org/puzzle-15-camel-and-banana-puzzle/?ref=lbp

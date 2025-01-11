@@ -1,0 +1,55 @@
+As a user I would like to be able to...
+
+Add new movies to my collection
+    so I can keep track of all my movies
+List all the movies in my collection
+   so I can see what movies I already have
+FInd a movie by using the movie title
+   so I can locate a specific movie easily when the collection grows
+
+Decide where to store movies in code
+Decide what data we want to store for each movie
+show the user a menu and let them pick an option
+Implement each requirement in turm, eachas a seperate function
+stop running the program when thy type the 'q' in the menu
+
+Where to store movies:
+Normally we would use a database but we don't know how to yet!
+For now, store them in a Python list
+movies = []
+
+What we store for each movie
+we'll create a dictionary for each movie
+In the dictionary we'll store movie title, director, and release year
+
+movies = []
+title = input("Enter the movie title: ")
+director = input("Enter the movie director: ")
+year = input("Enter the movie release year: ")
+
+movies.append({
+    'title': title,
+    'director': director,
+    'year': year
+})
+
+show the user Menu
+Get the user's input
+Then run a loop and get their input again at the end
+
+MENU_PROMPT = "\n Enter 'a' to add a movie, 'l' to see your movies, 'f' to find a movie by title, or 'q' to quit"
+
+selection = input(MENU_PROMPT)
+while selection != 'q':
+    if selection == 'a':
+        pass
+    elif selection == 'l':
+        pass
+    elif selection == 'f':
+        pass
+    else:
+        print("Unknown Command, Please try again.")
+
+    selection = input(MENU_PROMPT)
+
+Implement each requirement in turn
